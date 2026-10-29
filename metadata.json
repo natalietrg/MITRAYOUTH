@@ -1,0 +1,6 @@
+{
+  "name": "MITRA - Youth Transition Bridge",
+  "description": "Integration layer for Indonesian vocational graduates (SMK) bridging school to first job across MagangHub, SIAPkerja, Tracer Study, and BKK",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
